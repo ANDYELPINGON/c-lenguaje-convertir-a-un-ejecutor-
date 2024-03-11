@@ -3,7 +3,7 @@
 /bcc*
 /cmake*
 /intel
-/ispc*
+/ispc*a
 /innosetup
 /jom
 /llvm*
